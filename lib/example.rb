@@ -36,3 +36,5 @@ cucumber = Plant.new(name: 'Cucumber')
 cucumber.garden = lawn
 
 p lawn.plants
+
+0
